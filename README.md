@@ -43,7 +43,7 @@ A modelagem estrutural das peças que compõem o braço robótico e que se conec
 
 O circuito e o código fonte podem ser testados diretamente pelo navegador. 
 
-🚀 **[Acessar Simulação no Wokwi](https://wokwi.com/projects/466380384604735489)**
+**[Acessar Simulação no Wokwi](https://wokwi.com/projects/466380384604735489)**
 
 ---
 
