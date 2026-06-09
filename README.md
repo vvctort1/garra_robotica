@@ -1,4 +1,4 @@
-# Garra Rotótica com Arduíno
+# Garra Robótica com Arduíno
 
 
 ## Simulação
