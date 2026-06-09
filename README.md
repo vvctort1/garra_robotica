@@ -55,4 +55,4 @@ O circuito e o código fonte podem ser testados diretamente pelo navegador.
 | **Victor Kenzo Toma** | RM551649 |
 | **Arthur Baldissera Claumann Marcos** | RM550219 |
 | **Ricardo Ramos Vergani** | RM550166 |
-=======
+
