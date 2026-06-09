@@ -1,4 +1,4 @@
-# Garra Rotótica com Arduíno + Servos motores
+# Garra Rotótica com Arduíno
 
 
 ## Simulação
