@@ -1,5 +1,5 @@
 
-# 🤖 Garra Robótica com Arduino + Servos Motores
+# Garra Robótica com Arduino + Servos Motores
 
 Projeto de controle de um braço robótico articulado utilizando a plataforma Arduino, servomotores e peças modeladas em 3D. 
 
